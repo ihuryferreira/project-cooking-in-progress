@@ -1,0 +1,19 @@
+body {
+    background-color: #ffde59;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+h1 {
+    position: relative;
+    margin: 0 auto;
+    top: 25vh;
+    width: 100vw;
+    text-align: center;
+    font-family: "Amatic SC";
+    font-size: 6vh;
+    color: #333;
+    opacity: 0.75;
+    animation: pulse 2.5s linear infinite;
+}
